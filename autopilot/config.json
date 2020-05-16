@@ -1,0 +1,17 @@
+{
+    "APP_PORT": "9779",
+    "APP_BASE_URL": "http://207.154.210.145",
+    "TESTNET_INSIGHT_URL": "YOUR-BITCORE-INSIGHT-API-URL",
+    "MAINNET_INSIGHT_URL": "YOUR-BITCORE-INSIGHT-API-URL",
+    "BTC_FEE_API": "https://bitcoinfees.earn.com/api/v1/fees/recommended",
+    "NODE_ENV": "development",
+    "SERVER_VERSION": 1,
+    "DB_URL": "mongodb://localhost:27017/api",
+    "DB_USER": "ADMIN-USER",
+    "DB_PASS": "VERY-STRONG-PASSWORD",
+    "DV_PATH": "m/44/1/1/0/",
+    "DV_CHANGE_PATH": "m/44/1/1/1/",
+    "DV_PR_PATH": "m/44/1/1/",
+    "NETWORK": "TEST",
+    "EXCHANGE" : "CCCAGG"
+}

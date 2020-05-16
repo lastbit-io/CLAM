@@ -1,0 +1,14 @@
+{
+  "name": "cln-autopilot",
+  "version": "0.0.1",
+  "description": "Automatically connect to and fund channels on c-lightning",
+  "main": "app.js",
+  "author": "prashb94",
+  "license": "ISC",
+  "dependencies": {
+    "lightning-client": "*",
+    "node-dig-dns": "^0.2.10",
+    "jsnetworkx": "*",
+    "bech32": "*"
+  }
+}

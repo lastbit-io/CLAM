@@ -1,0 +1,16 @@
+{
+  "name": "txstream",
+  "version": "1.0.0",
+  "description": "bitcoind zmq connector to websockets for tx notifications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.1.6",
+    "ws": "^7.2.0",
+    "zeromq": "^6.0.0-beta.5"
+  }
+}
